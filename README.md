@@ -23,7 +23,8 @@ INSERT INTO funcionarios(primeiro_nome,sobrenome,email,telefone,dataContratacao,
 
 INSERT INTO funcionarios(primeiro_nome,sobrenome,email,telefone,dataContratacao,ocupacao_id,salario,gerente_id,departamento_id) VALUES ('Gustavo','Amorim','gutola@momento.org','01011010101','2022-06-29',3,24000.00,NULL,1);
 
-INSERT INTO funcionarios(primeiro_nome,sobrenome,email,telefone,dataContratacao,ocupacao_id,salario,gerente_id,departamento_id) VALUES ('Gabriel','Marques','marques@momento.org','01011010101','2022-06-29',3,24000.00,NULL,1);
+INSERT INTO funcionarios (`primeiro_nome`, `sobrenome`, `email`, `telefone`, `dataContratacao`, `ocupacao_id`, `salario`, `departamento_id`) VALUES ('Thiago','Antenor','thiagoantenor31@gmaill.com','0000 0000','2022-06-29',9,4000.00,6);
+##
 
 ##
 
